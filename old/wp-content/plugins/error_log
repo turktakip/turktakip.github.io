@@ -1,0 +1,6 @@
+[10-Jan-2017 16:08:42 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/plugins/hello.php on line 60
+[21-Feb-2017 16:24:00 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/plugins/hello.php on line 60
+[20-Apr-2017 02:35:47 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/plugins/hello.php on line 60
+[31-May-2017 23:22:20 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/plugins/hello.php on line 60
+[30-Jun-2017 14:16:45 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/plugins/hello.php on line 60
+[07-Oct-2017 21:21:25 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/plugins/hello.php on line 60

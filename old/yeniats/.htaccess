@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^yeniats\.turktakip\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.yeniats\.turktakip\.net$
+RewriteRule ^/?$ "http\:\/\/login\.infomobil\.com\.tr\/ats\/faces\/startTurkTakip\?_adf\.ctrl\-state\=18mnx2cqdj_7" [R=301,L]
+

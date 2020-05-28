@@ -1,0 +1,1 @@
+[01-Aug-2018 04:49:46 America/New_York] PHP Fatal error:  Call to undefined function plugin_basename() in /home/ozgun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

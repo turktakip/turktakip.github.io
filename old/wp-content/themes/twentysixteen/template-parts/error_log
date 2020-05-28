@@ -1,0 +1,5 @@
+[27-Oct-2018 12:17:03 America/New_York] PHP Fatal error:  Call to undefined function _e() in /home/ozgun/public_html/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[28-Oct-2018 11:53:47 America/New_York] PHP Fatal error:  Call to undefined function apply_filters() in /home/ozgun/public_html/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[30-Oct-2018 04:33:15 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/ozgun/public_html/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[05-Dec-2018 03:41:01 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/ozgun/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 12:21:14 America/New_York] PHP Fatal error:  Call to undefined function the_ID() in /home/ozgun/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

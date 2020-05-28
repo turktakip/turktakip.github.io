@@ -1,0 +1,4 @@
+[25-Oct-2018 22:58:38 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 03:05:18 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 07:33:48 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 12:31:12 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

@@ -1,0 +1,6 @@
+[28-May-2019 01:07:17 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/ozgun/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 11:22:01 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/ozgun/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 03:36:29 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/ozgun/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Jul-2019 01:24:26 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/ozgun/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[11-Dec-2019 15:44:40 America/New_York] PHP Notice:  Undefined index: wp_version in /home/ozgun/public_html/wp-content/themes/twentysixteen/functions.php on line 31
+[11-Dec-2019 15:44:40 America/New_York] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ozgun/public_html/wp-content/themes/twentysixteen/functions.php on line 32

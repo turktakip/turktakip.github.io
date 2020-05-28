@@ -1,0 +1,9 @@
+[17-Jul-2018 04:22:13 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/ozgun/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[05-Dec-2018 18:31:35 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/ozgun/public_html/wp-content/themes/twentyfourteen/header.php on line 13
+[05-Dec-2018 21:56:57 America/New_York] PHP Fatal error:  Call to undefined function language_attributes() in /home/ozgun/public_html/wp-content/themes/twentyfourteen/header.php on line 13
+[07-Dec-2018 20:54:32 America/New_York] PHP Notice:  Undefined index: wp_version in /home/ozgun/public_html/wp-content/themes/twentyfourteen/functions.php on line 42
+[07-Dec-2018 20:54:32 America/New_York] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ozgun/public_html/wp-content/themes/twentyfourteen/functions.php on line 43
+[11-Dec-2018 08:09:11 America/New_York] PHP Notice:  Undefined index: wp_version in /home/ozgun/public_html/wp-content/themes/twentyfourteen/functions.php on line 42
+[11-Dec-2018 08:09:11 America/New_York] PHP Fatal error:  Call to undefined function get_template_directory() in /home/ozgun/public_html/wp-content/themes/twentyfourteen/functions.php on line 43
+[11-Dec-2018 11:56:28 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/ozgun/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[11-Dec-2018 13:18:51 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/ozgun/public_html/wp-content/themes/twentyfourteen/404.php on line 10

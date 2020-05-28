@@ -1,0 +1,1 @@
+[17-Feb-2018 00:46:15 America/New_York] PHP Fatal error:  Call to undefined function post_class() in /home/ozgun/public_html/wp-includes/theme-compat/embed-content.php on line 13

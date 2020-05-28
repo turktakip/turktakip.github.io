@@ -1,0 +1,9 @@
+[24-Sep-2019 11:51:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Duplicate entry '20-1' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO oc_product_description SET product_id = '20', language_id = '1', name = 'Araç Takip Cihazı', description = '', tag = '', meta_title = 'Araç Takip Cihazı', meta_description = '', meta_keyword = ''' in /home/ozgun/public_html/magaza/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/ozgun/public_html/magaza/system/library/db.php(45): DB\MySQLi->query('INSERT INTO oc_...')
+#1 /home/ozgun/public_html/magaza/admin/model/catalog/product.php(147): DB->query('INSERT INTO oc_...')
+#2 [internal function]: ModelCatalogProduct->editProduct('20', Array)
+#3 /home/ozgun/public_html/magaza/system/engine/loader.php(248): call_user_func_array(Array, Array)
+#4 [internal function]: Loader->{closure}(Array, Array)
+#5 /home/ozgun/public_html/magaza/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#6 /home/ozgun/public_html/magaza/admin/controller/catalog/product.php(75):  in /home/ozgun/public_html/magaza/system/library/db/mysqli.php on line 40

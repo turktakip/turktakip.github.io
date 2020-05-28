@@ -1,0 +1,1 @@
+[21-Apr-2020 18:13:58 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/ozgun/public_html/wp-includes/ID3/module.audio.ac3.php on line 19

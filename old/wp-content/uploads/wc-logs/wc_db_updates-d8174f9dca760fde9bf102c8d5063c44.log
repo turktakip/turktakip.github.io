@@ -1,0 +1,57 @@
+10-26-2016 @ 09:37:10 - Queuing 2.6.0 - wc_update_260_options
+10-26-2016 @ 09:37:10 - Queuing 2.6.0 - wc_update_260_termmeta
+10-26-2016 @ 09:37:10 - Queuing 2.6.0 - wc_update_260_zones
+10-26-2016 @ 09:37:10 - Queuing 2.6.0 - wc_update_260_zone_methods
+10-26-2016 @ 09:37:10 - Queuing 2.6.0 - wc_update_260_refunds
+10-26-2016 @ 09:37:10 - Queuing 2.6.0 - wc_update_260_db_version
+10-26-2016 @ 09:37:11 - Running wc_update_260_options callback
+10-26-2016 @ 09:37:11 - Finished wc_update_260_options callback
+10-26-2016 @ 09:37:11 - Running wc_update_260_termmeta callback
+10-26-2016 @ 09:37:11 - Finished wc_update_260_termmeta callback
+10-26-2016 @ 09:37:11 - Running wc_update_260_zones callback
+10-26-2016 @ 09:37:11 - Finished wc_update_260_zones callback
+10-26-2016 @ 09:37:11 - Running wc_update_260_zone_methods callback
+10-26-2016 @ 09:37:11 - Finished wc_update_260_zone_methods callback
+10-26-2016 @ 09:37:11 - Running wc_update_260_refunds callback
+10-26-2016 @ 09:37:11 - Finished wc_update_260_refunds callback
+10-26-2016 @ 09:37:11 - Running wc_update_260_db_version callback
+10-26-2016 @ 09:37:11 - Finished wc_update_260_db_version callback
+10-26-2016 @ 09:37:11 - Data update complete
+2017-10-25T08:06:37+00:00 INFO Queuing 3.0.0 - wc_update_300_webhooks
+2017-10-25T08:06:37+00:00 INFO Queuing 3.0.0 - wc_update_300_grouped_products
+2017-10-25T08:06:37+00:00 INFO Queuing 3.0.0 - wc_update_300_settings
+2017-10-25T08:06:37+00:00 INFO Queuing 3.0.0 - wc_update_300_product_visibility
+2017-10-25T08:06:37+00:00 INFO Queuing 3.0.0 - wc_update_300_db_version
+2017-10-25T08:06:37+00:00 INFO Queuing 3.1.0 - wc_update_310_downloadable_products
+2017-10-25T08:06:37+00:00 INFO Queuing 3.1.0 - wc_update_310_old_comments
+2017-10-25T08:06:37+00:00 INFO Queuing 3.1.0 - wc_update_310_db_version
+2017-10-25T08:06:37+00:00 INFO Queuing 3.1.2 - wc_update_312_shop_manager_capabilities
+2017-10-25T08:06:37+00:00 INFO Queuing 3.1.2 - wc_update_312_db_version
+2017-10-25T08:06:37+00:00 INFO Queuing 3.2.0 - wc_update_320_mexican_states
+2017-10-25T08:06:37+00:00 INFO Queuing 3.2.0 - wc_update_320_db_version
+2017-10-25T08:06:38+00:00 ERROR Unable to dispatch WooCommerce updater: Operation timed out after 1001 milliseconds with 0 bytes received
+2017-10-25T08:06:38+00:00 INFO Running wc_update_300_webhooks callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_300_webhooks callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_300_grouped_products callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_300_grouped_products callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_300_settings callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_300_settings callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_300_product_visibility callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_300_product_visibility callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_300_db_version callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_300_db_version callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_310_downloadable_products callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_310_downloadable_products callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_310_old_comments callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_310_old_comments callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_310_db_version callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_310_db_version callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_312_shop_manager_capabilities callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_312_shop_manager_capabilities callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_312_db_version callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_312_db_version callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_320_mexican_states callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_320_mexican_states callback
+2017-10-25T08:06:38+00:00 INFO Running wc_update_320_db_version callback
+2017-10-25T08:06:38+00:00 INFO Finished wc_update_320_db_version callback
+2017-10-25T08:06:38+00:00 INFO Data update complete

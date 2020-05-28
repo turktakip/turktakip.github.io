@@ -1,0 +1,2 @@
+[06-Dec-2018 22:10:34 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 01:19:52 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/ozgun/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
